@@ -1,4 +1,4 @@
-# Week 1 Assessment
+# Week 1 Assessment: Repository Workflow
 
 Starter project for a small employee-data analysis.
 
