@@ -51,7 +51,7 @@ display(average_salary)
 
 # ## 4. Time one calculation
 # 
-# `%timeit` repeats the calculation and reports its execution time.
+# This command repeats the calculation and reports its execution time.
 
 # In[4]:
 
