@@ -1,0 +1,5 @@
+The dataset contains 8 employees.
+4 employees are based in Chennai.
+IT has the largest headcount, with 3 employees.
+Finance has the highest average salary, at 90000.
+The overall average salary is 58500.
