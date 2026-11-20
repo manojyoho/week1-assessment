@@ -1,4 +1,4 @@
-# Week 1 Assessment: Employee Analysis
+# Week 1 Assessment: Employee Analysis and Repository Workflow
 
 This beginner-friendly project uses Git, a Jupyter notebook, and Pandas to
 explore a small employee dataset.
